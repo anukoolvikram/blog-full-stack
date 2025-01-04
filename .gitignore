@@ -1,0 +1,52 @@
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+logs/*.log
+
+# Dependency directories
+bower_components/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# Editor and system-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Optional npm cache
+.npm/
+
+# Parcel cache
+.cache/
+
+# MacOS system files
+._*
+
+# Linux directory file
+.directory
+
+# Debugging files
+*.pid
